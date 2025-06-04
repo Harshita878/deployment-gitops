@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/Harshita878/3rd-party-repo.git 
-    targetRevision: main
+    targetRevision: HEAD
     path: prometheus/prometheus   
     helm:
       valueFiles:
