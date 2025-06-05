@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: todo-frontend
-          image: harshita9876/todo-frontend:v1
+          image: harshita9876/todo-frontend:v2
           ports:
             - containerPort: 80
