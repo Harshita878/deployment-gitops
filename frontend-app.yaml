@@ -10,7 +10,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: frontend
-    repoURL: https://github.com/Harshita878/deployments-gitops.git
+    repoURL: https://github.com/Harshita878/deployment-gitops.git
     targetRevision: HEAD
   project: default
   syncPolicy:
