@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: todo-frontend
-          image: ghcr.io/marcopeg/todo-react-frontend:latest
+          image: harshita9876/todo-frontend:v1
           ports:
             - containerPort: 3000
