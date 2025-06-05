@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: todo-backend
-          image: ghcr.io/marcopeg/todo-node-backend:latest
+          image: harshita9876/todo-backend:v1
           ports:
             - containerPort: 3000
           env:
